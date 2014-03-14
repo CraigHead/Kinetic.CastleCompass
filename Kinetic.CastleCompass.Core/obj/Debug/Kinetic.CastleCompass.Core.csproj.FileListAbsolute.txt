@@ -1,5 +1,0 @@
-C:\code\Kinetic.CastleCompass\Kinetic.CastleCompass.Core\obj\Debug\Kinetic.CastleCompass.Core.csprojResolveAssemblyReference.cache
-C:\code\Kinetic.CastleCompass\Kinetic.CastleCompass.Core\bin\Debug\Kinetic.CastleCompass.Core.dll
-C:\code\Kinetic.CastleCompass\Kinetic.CastleCompass.Core\bin\Debug\Kinetic.CastleCompass.Core.pdb
-C:\code\Kinetic.CastleCompass\Kinetic.CastleCompass.Core\obj\Debug\Kinetic.CastleCompass.Core.dll
-C:\code\Kinetic.CastleCompass\Kinetic.CastleCompass.Core\obj\Debug\Kinetic.CastleCompass.Core.pdb
