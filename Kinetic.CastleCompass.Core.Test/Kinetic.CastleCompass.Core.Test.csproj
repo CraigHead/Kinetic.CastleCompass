@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CompassBearing_Test.cs" />
+    <Compile Include="CoordinateResource_Test.cs" />
     <Compile Include="WhiteCastle_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
