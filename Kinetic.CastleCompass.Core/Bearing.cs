@@ -14,8 +14,8 @@ namespace Kinetic.CastleCompass.Core
 
             double deltaLong = (pointB.Longitude - pointA.Longitude).ToRadian();
 
-            double x = Math.Sin(deltaLong) * Math.Cos(lat2);
-            double y = Math.Cos(lat1) * Math.Sin(lat2) - (Math.Sin(lat1) * Math.Cos(lat2) * Math.Cos(deltaLong));
+            double y = Math.Sin(deltaLong) * Math.Cos(lat2);
+            double x = Math.Cos(lat1) * Math.Sin(lat2) - (Math.Sin(lat1) * Math.Cos(lat2) * Math.Cos(deltaLong));
 
             double initialBearing = Math.Atan2(y, x).ToDegrees();
             double compassBearing = (initialBearing + 360) % 360;
